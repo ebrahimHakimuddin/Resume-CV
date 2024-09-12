@@ -554,10 +554,6 @@ video {
   --tw-contain-style:  ;
 }
 
-.m-0 {
-  margin: 0px;
-}
-
 .mx-5 {
   margin-left: 1.25rem;
   margin-right: 1.25rem;
@@ -584,26 +580,6 @@ video {
 
 .mt-6 {
   margin-top: 1.5rem;
-}
-
-.mt-0 {
-  margin-top: 0px;
-}
-
-.mr-10 {
-  margin-right: 2.5rem;
-}
-
-.mr-1 {
-  margin-right: 0.25rem;
-}
-
-.-mr-\[200px\] {
-  margin-right: -200px;
-}
-
-.mr-\[200px\] {
-  margin-right: 200px;
 }
 
 .block {
@@ -668,14 +644,6 @@ video {
 
 .text-wrap {
   text-wrap: wrap;
-}
-
-.text-nowrap {
-  text-wrap: nowrap;
-}
-
-.break-keep {
-  word-break: keep-all;
 }
 
 .bg-gray-300 {
@@ -771,14 +739,14 @@ video {
 }
 
 @media (min-width: 620px) {
-  .tablet\:mx-\[50px\] {
-    margin-left: 50px;
-    margin-right: 50px;
-  }
-
   .tablet\:mx-8 {
     margin-left: 2rem;
     margin-right: 2rem;
+  }
+
+  .tablet\:mx-\[50px\] {
+    margin-left: 50px;
+    margin-right: 50px;
   }
 
   .tablet\:text-2xl {
@@ -792,49 +760,21 @@ video {
   .tablet\:text-xl {
     font-size: 1.25rem;
   }
-
-  .\*\:tablet\:text-xl > * {
-    font-size: 1.25rem;
-  }
 }
 
 @media (min-width: 1200px) {
-  .laptop\:mx-\[80px\] {
-    margin-left: 80px;
-    margin-right: 80px;
-  }
-
   .laptop\:mx-12 {
     margin-left: 3rem;
     margin-right: 3rem;
   }
 
-  .laptop\:mx-\[\] {
-    margin-left: ;
-    margin-right: ;
-  }
-
-  .laptop\:mx-\[10px\] {
-    margin-left: 10px;
-    margin-right: 10px;
-  }
-
-  .laptop\:mx-10 {
-    margin-left: 2.5rem;
-    margin-right: 2.5rem;
-  }
-
-  .laptop\:mx-11 {
-    margin-left: 2.75rem;
-    margin-right: 2.75rem;
+  .laptop\:mx-\[80px\] {
+    margin-left: 80px;
+    margin-right: 80px;
   }
 
   .laptop\:inline {
     display: inline;
-  }
-
-  .laptop\:text-nowrap {
-    text-wrap: nowrap;
   }
 
   .laptop\:text-2xl {
@@ -851,16 +791,6 @@ video {
 
   .laptop\:text-5xl {
     font-size: 3.052rem;
-  }
-
-  .laptop\:text-xl {
-    font-size: 1.25rem;
-  }
-}
-
-@media (min-width: 1440px) {
-  .large\:text-nowrap {
-    text-wrap: nowrap;
   }
 }
 
