@@ -1,3 +1,5 @@
 {
-  "name": "jsreport-server"
+  "name": "resume-cv",
+  "private": true,
+  "description": "Static single-page CV served from GitHub Pages at resume.ebrahim.co.tz"
 }
