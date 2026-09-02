@@ -1,0 +1,40 @@
+# Ebrahim Hakimuddin Tayabali
+
+> Software developer based in Dar es Salaam, Tanzania. Builds ERP-integrated web
+> applications with Next.js, React and PostgreSQL, backed by hands-on Linux,
+> enterprise networking and self-hosting infrastructure experience.
+
+This site is a single-page CV. Everything below is stated on that page.
+
+## Facts
+
+- Full name: Ebrahim Hakimuddin Tayabali
+- Location: Kinondoni Road, Dar es Salaam, Tanzania
+- Current role: Software Developer at GroWorx SA (remote), since July 2026
+- Also: IT Consultant and Data Analyst at Tristar Investment Co. Ltd, since August 2024
+- Education: BSc Computer Science, University of Dar es Salaam (since October 2024)
+- Previously: BTech Computer Engineering, RK University, Rajkot, India (1 year)
+- Contact: ebrahimhakimuddin@gmail.com, +255 693 022 451
+
+## Areas of work
+
+- Web applications: Next.js, React, React Native, Django, TypeScript, Python
+- Data and backend: PostgreSQL, MySQL, SQLite, Redis, Drizzle ORM, tRPC, Convex
+- ERP and business systems: Odoo, ERPNext, Zoho, Fleetbase, Moodle, Canvas, WordPress
+- Networking: TCP/IP, subnetting, DHCP, DNS, NAT, VLANs, routing, firewalls, VPNs
+- Network platforms: OpenWrt, pfSense, OPNsense, MikroTik RouterOS, Cloudflare Zero Trust
+- Infrastructure: Linux, Docker and Docker Compose, Nginx, Caddy, self-hosting, backups
+
+## Certifications
+
+- Introduction to Cybersecurity, Cisco Networking Academy
+- Cyber Threat Management, Cisco Networking Academy
+- Certificate in Full Stack Development, IT Varsity (FNB App Academy 2025)
+- CS50's Introduction to Programming with Python, Harvard University
+- NPTEL: The Joy of Computing using Python
+
+## Links
+
+- [CV](https://resume.ebrahim.co.tz/): the full resume, single page
+- [GitHub](https://github.com/ebrahimHakimuddin): source repositories
+- [LinkedIn](https://www.linkedin.com/in/ebrahim-tayabali-290909327/): professional profile
