@@ -100,6 +100,7 @@ a:focus-visible {
 /* Entry titles and location metadata read as document text; the trailing
    glyph is what marks them as links (as in the reference document). */
 .entry-title a,
+.entry-sub a,
 .entry-meta a {
     color: inherit;
 }
